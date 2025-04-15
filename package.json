@@ -1,0 +1,17 @@
+{
+  "name": "music-organizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "organize": "node organize.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs-extra": "^11.3.0",
+    "globby": "^14.1.0",
+    "music-metadata": "^11.2.0"
+  }
+}

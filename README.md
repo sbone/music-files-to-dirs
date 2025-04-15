@@ -9,6 +9,9 @@ media/
   ├── track.mp3
   ├── music_2.flac
 ```
+
+Into this:
+```
 media/
   ├── {Artist 1}/{Album}/music.mp3
   ├── {Artist 2}/{Album 2}/track.mp3
